@@ -110,4 +110,4 @@ setUTCDate()
 **The ```setUTCDate()``` method sets the date of the Date object according to UTC.**
 ![N|Solid](./foto21.PNG)
 
-# Rahmat baroi dikkataton! ~```Ruzi Said Muborak```~
+# Rahmat baroi dikkataton! 
