@@ -82,30 +82,30 @@ getMinutes
 ![N|Solid](./foto15.PNG)
 ![N|Solid](./foto16.PNG)
 ```sh
-getUTCDate()
+                                  getUTCDate()
 ```
 ```getUTCDate()``` **returns the day of the month (1 to 31) of a date object.**
 ```getUTCDate()``` **returns the date in UTC.**
 ![N|Solid](./foto17.PNG)
 ```sh
-setFullYear()
+                                setFullYear()
 ```
 ```setFullYear()``` **sets the year of the date.**
 ```setFullYear()``` **can also set the month and day**
 ![N|Solid](./foto18.PNG)
 ```sh
-setMonth()
+                                 setMonth()
 ```
 The ```setMonth()``` **method sets the month of the date object.**
 **This method can also be used to set the day of the month**
 ![N|Solid](./foto19.PNG)
 ```sh
-setDate()
+                                  setDate()
 ```
 ```setDate()``` **sets the day month of the date.**
 ![N|Solid](./foto20.PNG)
 ```sh
-setUTCDate()
+                                 setUTCDate()
 ```
 **The ```setUTCDate()``` method sets the date of the Date object according to UTC.**
 ![N|Solid](./foto21.PNG)
